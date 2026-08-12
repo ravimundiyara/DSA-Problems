@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
