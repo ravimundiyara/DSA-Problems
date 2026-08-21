@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ravimundiyara/DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
