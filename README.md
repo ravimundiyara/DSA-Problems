@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
