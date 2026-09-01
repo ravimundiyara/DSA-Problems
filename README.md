@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ravimundiyara/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravimundiyara/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ravimundiyara/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravimundiyara/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/ravimundiyara/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/ravimundiyara/DSA-Problems/tree/master/4024-nearest-available-drone) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ravimundiyara/DSA-Problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
