@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ravimundiyara/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [4024-nearest-available-drone](https://github.com/ravimundiyara/DSA-Problems/tree/master/4024-nearest-available-drone) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravimundiyara/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [1922-count-good-numbers](https://github.com/ravimundiyara/DSA-Problems/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
