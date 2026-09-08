@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void findsubsets(int ind, vector<int>&nums, vector<vector<int>>&ans, vector<int>ds){
+    void findsubsets(int ind, vector<int>&nums, vector<vector<int>>&ans, vector<int>&ds){
         if(ind==nums.size()){
             ans.push_back(ds);
             return;
