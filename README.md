@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -146,4 +149,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ravimundiyara/DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
