@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ravimundiyara/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ravimundiyara/DSA-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ravimundiyara/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ravimundiyara/DSA-Problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
