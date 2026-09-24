@@ -12,18 +12,14 @@ public:
                 }
                 char top=st.top();
             
-            
-             if ((ch == ')' && top != '(') ||
+            if ((ch == ')' && top != '(') ||
                  (ch == '}' && top != '{') ||
                 (ch == ']' && top != '[')) {   
                 return false;
-                }
+            }
                 st.pop();
             }
         }
         return st.empty();
-        }
-
-
-    
+    }
 };
