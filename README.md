@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ravimundiyara/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravimundiyara/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0148-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -182,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ravimundiyara/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
