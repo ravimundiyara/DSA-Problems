@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [1922-count-good-numbers](https://github.com/ravimundiyara/DSA-Problems/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/ravimundiyara/DSA-Problems/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
