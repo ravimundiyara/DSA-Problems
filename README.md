@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ravimundiyara/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ravimundiyara/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ravimundiyara/DSA-Problems/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/ravimundiyara/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ravimundiyara/DSA-Problems/tree/master/0402-remove-k-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ravimundiyara/DSA-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
