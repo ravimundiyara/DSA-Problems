@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ravimundiyara/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravimundiyara/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravimundiyara/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/ravimundiyara/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ravimundiyara/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/ravimundiyara/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravimundiyara/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
 |  |
 | ------- |
