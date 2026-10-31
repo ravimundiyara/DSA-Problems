@@ -17,10 +17,7 @@ public:
         slow = slow->next;
         fast = fast->next->next;
     }
-    // ListNode*temp=slow;
-    // while(temp!=NULL){
-
-    // }
+    
     return slow;
     }
 };
