@@ -1,26 +1,26 @@
 class Solution {
 public:
+int fun(int n){
+        int sum=0;
+        while(n>0){
+            int d=n%10;
+            n=n/10;
+            sum=sum+ d*d;
+        }
+        return sum;
+      }
     bool isHappy(int n) {
-       set<int>myset;
-       int val;
-       int index;
+      int slow=n;
+      int fast=n;
+      while(fast!=1){
+        slow=fun(slow);
+        fast=fun(fast);
+        fast=fun(fast);
 
-       while(1){
-        val=0;
-            while(n){
-                index=n%10;
-                val+=index*index;
-                n/=10;
-            }
-            if(val==1){
-            return true;
-            }
-            else if(myset.find(val)!=myset.end()){
+        if(slow==fast && slow!=1){
             return false;
-            }
-         myset.insert(val);
-         n=val;
-       }
-       return false;
+        }
+      }fast=1;
+      return true;
     }
 };
