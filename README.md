@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimundiyara/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/ravimundiyara/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ravimundiyara/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/ravimundiyara/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravimundiyara/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
