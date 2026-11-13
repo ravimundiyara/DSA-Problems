@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ravimundiyara/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ravimundiyara/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravimundiyara/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ravimundiyara/DSA-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2104-sum-of-subarray-ranges](https://github.com/ravimundiyara/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [4024-nearest-available-drone](https://github.com/ravimundiyara/DSA-Problems/tree/master/4024-nearest-available-drone) |
 ## String
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/ravimundiyara/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravimundiyara/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ravimundiyara/DSA-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Backtracking
 |  |
 | ------- |
