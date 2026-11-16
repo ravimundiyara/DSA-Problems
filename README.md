@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ravimundiyara/DSA-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ravimundiyara/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ravimundiyara/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ravimundiyara/DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ravimundiyara/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ravimundiyara/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravimundiyara/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ravimundiyara/DSA-Problems/tree/master/0234-palindrome-linked-list) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ravimundiyara/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ravimundiyara/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ravimundiyara/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ravimundiyara/DSA-Problems/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ravimundiyara/DSA-Problems/tree/master/0056-merge-intervals) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravimundiyara/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ravimundiyara/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/ravimundiyara/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravimundiyara/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ravimundiyara/DSA-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravimundiyara/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ravimundiyara/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ravimundiyara/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravimundiyara/DSA-Problems/tree/master/0503-next-greater-element-ii) |
