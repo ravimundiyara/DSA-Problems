@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ravimundiyara/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ravimundiyara/DSA-Problems/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ravimundiyara/DSA-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ravimundiyara/DSA-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ravimundiyara/DSA-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ravimundiyara/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ravimundiyara/DSA-Problems/tree/master/0079-word-search) |
